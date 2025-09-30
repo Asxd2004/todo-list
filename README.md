@@ -2,7 +2,7 @@
 
 A small, modern, and playful To-Do list built with plain HTML/CSS/JavaScript.
 
-**Live demo:** https://yourusername.github.io/todo-list/  
+**Live demo:** [https://yourusername.github.io/todo-list/](https://asxd2004.github.io/todo-list/)  
 **Code:** https://github.com/yourusername/todo-list
 
 ---
